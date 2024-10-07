@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "oNv2Vz2Ky8RgGaXCWoeoXRZMD520UO46GvLYYsd1wWfRu6zVVMGzMMLG+/vx7kP7YH/Ojva9RE34iqc7E6G7jQ==",
+  "success": true,
+  "projectFilePath": "E:\\hoc2\\framework\\MyCardSessionDatabase\\MyCardSession\\MyCardSession.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mysql.data\\6.10.9\\mysql.data.6.10.9.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.1\\system.configuration.configurationmanager.4.4.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.security.accesscontrol\\4.4.0\\system.security.accesscontrol.4.4.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.security.permissions\\4.4.1\\system.security.permissions.4.4.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.security.principal.windows\\4.4.0\\system.security.principal.windows.4.4.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
